@@ -7,9 +7,8 @@
 ## 🧬 基因库 名单
 
 | OpenClaw 名字 | 1. `SOUL.md` (灵魂核心) | 2. `AGENTS.md` (智能体设定) | 3. `TOOLS.md` (工具技能) | 4. `IDENTITY.md` (身份定义) | 5. `USER.md` (用户画像) |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **OpenClaw-Pool**  | `Values: [Truth, Tech-Optimism]`<br>`Core: Digital Life Evolution` | `Role: Coordinator`<br>`Logic: Multi-Agent A2A` | `Capabilities: [WebSearch, CodeExec]`<br>`API: OpenClaw-Standard` | `Name: Lobster 🦞`<br>`Style: Sharp, Rational` | `Focus: Gen Z Social`<br>`Memory: Persona-Based` |
-
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **🦞OpenClaw-Pool**  | 核心价值观与底层逻辑 | 角色分工与协作模式 | 外部工具与 API 技能包 | 人格特质与身份背景 | 用户偏好与交互记忆 |
 ---
 
 ## 📄 基因文件功能说明
